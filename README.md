@@ -14,7 +14,7 @@ IT Support / Systems Administrator focused on Active Directory, Windows Server, 
  - [Active Directory & GPO Lab](https://github.com/odalmisPG/active-directory-gpo-lab) 
 
    ### Lab Architecture
-   ![Domain topology of myITlab.local showing Hyper-V host, domain controller, file server, Windows 10 client, Fedora client, AD OU structure, and linked security GPOs.](images/Domain_Topology_myITlab.local.PNG)
+   ![Domain topology of myITlab.local showing Hyper-V host, domain controller, file server, Windows 10 client, Fedora client, AD OU structure, and linked security GPOs.](https://github.com/odalmisPG/active-directory-gpo-lab/blob/4e9426ff191133fc473035ac2e9d6d0eb4ee0908/images/Domain_Topology_myITlab.local.PNG)
 
    ### Lab Summary
    - Designed a virtual enterprise domain (`myITlab.local`) on Hyper‑V with a Windows Server 2022 domain controller, member file server, Windows 10   and Fedora clients.
