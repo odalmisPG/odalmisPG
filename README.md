@@ -1,6 +1,9 @@
 # Hi, I'm Odalmis 👋
 
-IT Support / Systems Administrator focused on Active Directory, Windows Server, and cloud/hybrid infrastructure.
+![Role](https://img.shields.io/badge/Role-IT%20Support%20%2F%20Sysadmin-blue?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Active%20Directory%20%7C%20Azure-blueviolet?style=flat-square)
+![Learning](https://img.shields.io/badge/Learning-AZ--104-success?style=flat-square)
+
 
 ## What I'm working on
 
